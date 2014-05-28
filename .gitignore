@@ -1,2 +1,2 @@
-# Will this ignore index.php in every folder?
-index.php
+# Only ignore root index.php
+/index.php
